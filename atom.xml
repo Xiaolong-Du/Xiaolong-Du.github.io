@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>https://Xiaolong-Du.github.io/</id>
+	<title>Homepage of Xiaolong Du, Goettingen University</title>
+	<updated>2017-11-08T18:04:26+01:00</updated>
+
+	<subtitle>This homepage shows my profile and some of my resaerch on galaxy formation with ultralight axion dark matter.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Xiaolong Du</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="https://Xiaolong-Du.github.io/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://Xiaolong-Du.github.io/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.6.2">Jekyll</generator>
+
+	
+</feed>
