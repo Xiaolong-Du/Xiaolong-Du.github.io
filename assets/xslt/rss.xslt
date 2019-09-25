@@ -31,7 +31,7 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="This homepage shows my profile and some of my resaerch on galaxy formation with ultralight axion dark matter.">
+	<meta name="description" content="This homepage shows my profile and some of my resaerch on dark matter.">
 	
 	
 	
@@ -43,7 +43,7 @@
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
-	<meta property="og:description" content="This homepage shows my profile and some of my resaerch on galaxy formation with ultralight axion dark matter.">
+	<meta property="og:description" content="This homepage shows my profile and some of my resaerch on dark matter.">
 	<meta property="og:url" content="https://Xiaolong-Du.github.io/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
@@ -345,7 +345,7 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              This homepage shows my profile and some of my resaerch on galaxy formation with ultralight axion dark matter.
+              This homepage shows my profile and some of my resaerch on dark matter.
               <a href="https://Xiaolong-Du.github.io/research/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
